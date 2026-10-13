@@ -48,7 +48,5 @@ The exported Excel file can be used to examine customer groups and support targe
 This practical demonstrates how K-Means Clustering can be implemented in IBM SPSS Modeler to segment mall customers. The resulting cluster assignments provide a foundation for understanding customer groups and developing customized marketing strategies.
 
 ## Author
-BCA (Data Science & Artificial Intelligence) Student
+Satyam Sharma
 
-## License
-This project is intended for educational and academic purposes.
